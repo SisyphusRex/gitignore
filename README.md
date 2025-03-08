@@ -1,0 +1,1 @@
+Collection of useful .gitignore files for various languages
